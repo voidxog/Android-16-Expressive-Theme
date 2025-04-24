@@ -44,5 +44,6 @@ You must also have [LSPosed](https://github.com/mywalkb/LSPosed_mod) installed
 
 - The colorful background behind icons is only available from Android 16 Beta 4
 - If you encounter problems with the theming in the selected apps like Permission Controller it is the styling problem of the app
+- It's base hase been based on [PixelSpoof](https://github.com/RisenID/PixelSpoof). The code bypassing the check is original.
 
 ### [Screenshots](https://github.com/igorb200828/Android-16-Expressive-Theme/tree/master/img)
