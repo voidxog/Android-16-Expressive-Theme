@@ -1,3 +1,5 @@
+![image](img/Module_Mockup.png)
+
 # Android 16 Expressive Theme
 
 ## What does it do?
