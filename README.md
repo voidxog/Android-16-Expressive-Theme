@@ -4,7 +4,7 @@
 
 ## What does it do?
 
-Android 16 Expressive Theme is a module for LSPosed that edits the files of the individual apps so it bypasses the isSpaExpressive check and sets it to be always enabled. It has been tested on Android 15 QPR2(250405.007) Android 16 Beta 3 and Android 16 Beta 4.
+Android 16 Expressive Theme is a module for LSPosed that edits the files of the individual apps so it bypasses the isSpaExpressive check and sets it to be always enabled. It has been tested on Android 15 QPR2(BP1A.250405.007) Android 16 Beta 3 and Android 16 Beta 4.
 
 ## Target Applications
 
