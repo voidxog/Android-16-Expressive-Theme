@@ -30,7 +30,7 @@ To use this module you must have one of the following (latest versions):
 - [Magisk](https://github.com/topjohnwu/Magisk) with Zygisk enabled
     - IMPORTANT: DO NOT add apps that you want to spoof to Magisk's denyList as that will break the module.
 - [KernelSU](https://github.com/tiann/KernelSU) with [ZygiskNext](https://github.com/Dr-TSNG/ZygiskNext) module installed
-- [Apatch](https://github.com/bmax121/APatch) with [ZygiskNext](https://github.com/Dr-TSNG/ZygiskNext) module installed
+- [APatch](https://github.com/bmax121/APatch) with [ZygiskNext](https://github.com/Dr-TSNG/ZygiskNext) module installed
 
 You must also have [LSPosed](https://github.com/mywalkb/LSPosed_mod) installed
 
