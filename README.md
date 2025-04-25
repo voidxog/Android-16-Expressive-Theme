@@ -40,7 +40,7 @@ You must also have [LSPosed](https://github.com/mywalkb/LSPosed_mod) installed
 - Now open the LSPosed Manager and go to "Modules".
 - "Android 16 Expressive Theme" should now appear in that list.
 - Click on "Android 16 Expressive Theme" and enable the module by flipping the switch at the top that says "Enable module".
-- Next, tick all the recommended apps and other apps that you want the module to apply to.
+- Next, tick the other apps that you want the module to apply to. The recommended one's will be already selected.
 - Force close the selected apps multiple times for the changes to fully apply or restart the device.
 
 ### Other
