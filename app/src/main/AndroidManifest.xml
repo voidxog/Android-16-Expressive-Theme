@@ -15,7 +15,7 @@
             android:value="true" />
         <meta-data
             android:name="xposeddescription"
-            android:value="Force enable new Android 16 Expressive Theme." />
+            android:value="Enables Material 3 Expressive Theme in System apps." />
         <meta-data
             android:name="xposedminversion"
             android:value="93" />

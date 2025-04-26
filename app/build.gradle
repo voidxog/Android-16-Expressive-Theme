@@ -9,9 +9,9 @@ android {
     defaultConfig {
         applicationId "com.igorb.expressivetheme"
         minSdk 35
-        targetSdk 35
+        targetSdkVersion '36'
         versionCode 1
-        versionName "1.0"
+        versionName '1.1'
     }
 
     buildTypes {

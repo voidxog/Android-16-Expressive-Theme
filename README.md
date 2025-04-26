@@ -1,10 +1,10 @@
 ![image](img/Module_Mockup.png)
 
-# Android 16 Expressive Theme
+# Material 3 Expressive Theme
 
 ## What does it do?
 
-Android 16 Expressive Theme is a module for LSPosed that edits the files of the individual apps so it bypasses the isSpaExpressive check and sets it to be always enabled. It has been tested on Android 15 QPR2(BP1A.250405.007) Android 16 Beta 3 and Android 16 Beta 4.
+Material 3 Expressive Theme is a module for LSPosed that changes boolean isExpressiveDesignEnabled from false to true. It has been tested on Android 15 QPR2(BP1A.250405.007) Android 16 Beta 3 and Android 16 Beta 4.
 
 ## Target Applications
 
@@ -16,11 +16,11 @@ This module is primarily intended for and tested with the following system compo
 *   **Health Connect:** com.google.android.healthconnect.controller
 *   **Repair Mode:** com.google.android.repairmode
 *   **Device Diagnostics:** com.android.devicediagnostics
-*   ...and potentially others using com.android.settingslib that I haven't found yet.
+*   ...and potentially others using com.android.settingslib.
 
 **Important:** 
 
-While you can enable this module for *any* app in the LSPosed Manager scope settings, it will only modify behavior in apps that actually call the specific methods being hooked (`SettingsThemeHelper.tryInit`, `SettingsThemeHelper.isExpressiveTheme`, `SettingsThemeKt.isSpaExpressiveEnabled`). For apps that don't use these, the module will simply do nothing.
+While you can enable this module for *any* app in the LSPosed Manager scope settings, it will only modify behavior in apps that actually check for that specific boolean. For apps that don't use these, the module will simply do nothing.
 
 ## How to install
 
@@ -36,10 +36,10 @@ You must also have [LSPosed](https://github.com/mywalkb/LSPosed_mod) installed
 
 ### Installation
 
-- Download the latest APK of Android 16 Expressive Theme from the [releases section](https://github.com/igorb200828/Android-16-Expressive-Theme/releases) and install it like any normal APK.
+- Download the latest APK of Material 3 Expressive Theme from the [releases section](https://github.com/igorb200828/Android-16-Expressive-Theme/releases) and install it like any normal APK.
 - Now open the LSPosed Manager and go to "Modules".
-- "Android 16 Expressive Theme" should now appear in that list.
-- Click on "Android 16 Expressive Theme" and enable the module by flipping the switch at the top that says "Enable module".
+- "Material 3 Expressive Theme" should now appear in that list.
+- Click on "Material 3 Expressive Theme" and enable the module by flipping the switch at the top that says "Enable module".
 - Next, tick the other apps that you want the module to apply to. The recommended one's will be already selected.
 - Force close the selected apps multiple times for the changes to fully apply or restart the device.
 
