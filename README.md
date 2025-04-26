@@ -20,7 +20,7 @@ This module is primarily intended for and tested with the following system compo
 
 **Important:** 
 
-While you can enable this module for *any* app in the LSPosed Manager scope settings, it will only modify behavior in apps that actually check for that specific boolean. For apps that don't use these, the module will simply do nothing.
+While you can enable this module for *any* app in the LSPosed Manager scope settings, it will only modify behavior in apps that actually check for that specific boolean. For apps that don't check for it, the module will simply do nothing.
 
 ## How to install
 
