@@ -4,7 +4,7 @@
 
 ## What does it do?
 
-Material 3 Expressive Theme is a module for LSPosed that changes boolean isExpressiveDesignEnabled from false to true. It has been tested on Android 15 QPR2(BP1A.250405.007) Android 16 Beta 3 and Android 16 Beta 4.
+Material 3 Expressive Theme is a module for LSPosed that changes boolean isExpressiveDesignEnabled from false to true. It has been tested on Android 15 QPR2(BP1A.250405.007, Android 16 Beta 3 and Android 16 Beta 4.
 
 ## Target Applications
 
@@ -21,6 +21,8 @@ This module is primarily intended for and tested with the following system compo
 **Important:** 
 
 While you can enable this module for *any* app in the LSPosed Manager scope settings, it will only modify behavior in apps that actually check for that specific boolean. For apps that don't check for it, the module will simply do nothing.
+
+On Android 15 QPR2 use the previous 1.0 release.
 
 ## How to install
 
