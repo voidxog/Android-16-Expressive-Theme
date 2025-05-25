@@ -52,4 +52,8 @@ You must also have [LSPosed](https://github.com/mywalkb/LSPosed_mod) installed
 - In Android 15 QPR2, the theme is incomplete. For instance, pages such as 'Security and Privacy' and 'Default apps' are not themed or are only partially themed.
 - It's base hase been based on [PixelSpoof](https://github.com/RisenID/PixelSpoof). The code bypassing the check is original.
 
+### Other Mods
+
+- [Android 16 Desktop mode enabler](https://github.com/igorb200828/Android_16_Desktop_Experience_Enabler), enables the new desktop mode on Android 16 QPR1 Beta 1
+
 ### [Screenshots](https://github.com/igorb200828/Android-16-Expressive-Theme/tree/master/img)
