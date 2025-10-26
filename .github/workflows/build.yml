@@ -48,5 +48,4 @@ jobs:
         path: |
           app/build/reports/
           app/build/outputs/
-        retention-days: 7          app/build/outputs/apk/debug/
         retention-days: 7
